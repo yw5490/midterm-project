@@ -1,0 +1,7 @@
+body {
+    background-image: url('cover/cover2.jpeg');
+    background-size: cover;
+    margin: 0;
+    padding: 0;
+    background-color: white;
+}
