@@ -20,6 +20,7 @@ body {
     top: 0;
     left: 0;
     right: 0;
+    /* Reference From: https://www.w3schools.com/css/css_z-index.asp */
     z-index: 100;
 }
 
@@ -93,6 +94,7 @@ body {
 .imageRight {
     flex: 1;
     text-align: center;
+    /* Reference From: https://www.w3schools.com/cssref/css3_pr_transform.php */
     transform: rotate(5deg);
 }
 
@@ -116,7 +118,7 @@ img {
 
 .imageTitle {
     font-size: 25px;
-    font-family: 'Caveat', cursive;;
+    font-family: 'Caveat', cursive;
 }
 
 .paragraphTitle {
